@@ -1,3 +1,5 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/ for how to compile this example.
+This is an alternative education resource (AER) for ANTH&206--Cultural Anthropology at Lower Columbia College. 
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/
+Written in R Markdown and compiled using [bookdown](https://github.com/rstudio/bookdown).
+
+This book is published at [https://tbatey.org/anth206book/](https://tbatey.org/anth206book).
