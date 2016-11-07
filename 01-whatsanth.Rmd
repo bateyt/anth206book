@@ -1,6 +1,14 @@
-# Introduction {#intro}
+# What is Anthropology? {#whatsanth}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+Anthropology is the most inclusive of the social sciences. Anthropology is the study of humanity, in all its aspects. If falls within the broader academic category of social sciences [@socialsciences]. Like many of those disciplines, anthropology grew out of Elightenment and coalesced into a formal scientific discipline during the early-1900's.
+
+To get a sense of what the four, traditional subdisciplines of North American anthropology---cultural anthropology, biological anthropology, archaeology, and linguistic anthropology---encompass, see the videos below.
+
+## Cultural Anthropology
+
+<CENTER>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2IZb3t5mbX8?rel=0" frameborder="0" allowfullscreen></iframe>
+</CENTER>
 
 Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
 

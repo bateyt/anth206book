@@ -7,7 +7,7 @@ site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
-biblio-style: apalike
+biblio-style: chicago-author-date.csl
 link-citations: yes
 github-repo: bateyt/anth206book
 description: "An interactive textbook for Cultural Anthropology at Lower Columbia College."
@@ -17,10 +17,10 @@ description: "An interactive textbook for Cultural Anthropology at Lower Columbi
 
 Hello. Welcome and welcome to ANTH&206--Cultural Anthropology at Lower Columbia College.
 
-## To Students
+## To Students {-}
 
 
-## Rationale for creating this book
+## Rationale for creating this book {-}
 
 I wanted to 
 
