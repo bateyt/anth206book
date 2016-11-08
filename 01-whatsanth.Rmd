@@ -1,6 +1,6 @@
 # What is Anthropology? {#whatsanth}
 
-Anthropology is the most inclusive of the social sciences. Anthropology is the study of humanity, in all its aspects. If falls within the broader academic category of social sciences [@socialsciences]. Like many of those disciplines, anthropology grew out of Elightenment and coalesced into a formal scientific discipline during the early-1900's.
+Perhaps the most inclusive of the social sciences, **anthropology** is the study of humanity, in all its aspects, and falls within the broader academic category of the social sciences [@socialsciences]. Like many of those disciplines, anthropology grew out of Western, Elightenment-period perspectives of the world, namely rationality and positivism. Haitian-born anthropologist Michel-Rolph Trouillot remarked that, as the social sciences were becoming established at the end of the nineteenth and beginning of the twentieth century, anthropology was assigned the "savage slot." By this, Trouillot meant that the different social sciences (e.g., sociology, political science, etc.) were set up to cover the different categories of peoples and topics scholars thought relevant at the time, and anthropologists became the experts on the "primitive" societies that were being colonized by European countries and the United States.
 
 To get a sense of what the four, traditional subdisciplines of North American anthropology---cultural anthropology, biological anthropology, archaeology, and linguistic anthropology---encompass, see the videos below.
 
